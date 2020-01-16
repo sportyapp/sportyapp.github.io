@@ -1,23 +1,23 @@
 
 html {        
-    height: 100%;
+    height: 100vh;
     background-color: black;
     color: white;
 }
 
 body {
     margin: 0 auto;
-    width: 90%;
-    height: 100%;
-    overflow-x:hidden;
+    width: 90vh;
+    height: 100vh;
+    overflow-x:auto;
 }
 
-.container {
-    height: 90%;
+.container {    
+    height: 90vh;
 }
 
 .footer {
-    height: 10%;
+    height: 10vh;
 }
 
 .flex {
@@ -36,11 +36,13 @@ body {
 }
 
 .logo-sporty {    
-    padding: 12% 50% 3% 50%;
+    padding: 12vh 0vh 3vh 0vh;    
+    margin-left: auto;    
+    margin-right: auto;
 }
 
 .btn-img {        
-    margin-top: 5%;
+    margin-top: 20vh;
 }
 
 .text-center{
