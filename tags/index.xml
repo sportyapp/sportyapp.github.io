@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sporty</title>
-    <link>http://www.sportymeapp.com/tags/</link>
+    <link>http://sportyapp.github.io/tags/</link>
     <description>Recent content in Tags on Sporty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.sportymeapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sportyapp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

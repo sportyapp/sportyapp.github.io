@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.sportymeapp.com/categories/</loc>
+    <loc>http://sportyapp.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.sportymeapp.com/</loc>
+    <loc>http://sportyapp.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://www.sportymeapp.com/tags/</loc>
+    <loc>http://sportyapp.github.io/tags/</loc>
   </url>
   
 </urlset>
